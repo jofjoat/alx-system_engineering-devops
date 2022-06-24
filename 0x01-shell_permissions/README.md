@@ -1,1 +1,1 @@
-New scripts for file permissions
+Shell permissions script
